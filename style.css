@@ -1,0 +1,58 @@
+body {
+    background-color: #212529;
+}
+
+img {
+    border-radius: 180px;
+    width: 250px;
+    margin-left: 600px;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aliceblue;
+    font-weight: 1000;
+    font-size: 35px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aliceblue;
+    font-weight: 1000;
+    font-size: 28px;
+    text-align: center;
+}
+
+p, li {
+    line-height: 25px;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#botao_trybe {
+    font-family: cursive;
+    color: aliceblue;
+    background-color: forestgreen;
+    font-size: 20px;
+    border-radius: 10px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-right: 4px;
+    padding-left: 4px;
+}
+
+.sociais {
+    font-family: cursive;
+    background-color: #f8961e;
+    font-size: 25px;
+    color: aliceblue;
+    border-radius: 10px;
+    padding: 7px;
+    margin-left: 420px;
+    text-decoration: none;
+}
+
